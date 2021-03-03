@@ -3,7 +3,7 @@ The 3D reconstruction of a missing bone surface and estimation of a related clin
 
 ![picture](https://github.com/alirezaasvadi/SSMR/blob/main/Screenshot%20from%202021-03-01%2013-17-07.png)
 
-If you have any inquiry, please contact to the following email: (myfirstname.mylastname@gmail.com)
+If you have any inquiry, please contact to my email: (myfirstname.mylastname@gmail.com)
 
 The algorithms are described in:
 
